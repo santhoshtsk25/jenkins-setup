@@ -8,3 +8,11 @@ yum install git maven jenkins -y
 
 systemctl start jenkins
 systemctl status jenkins
+
+
+
+
+
+
+
+hiktikf
